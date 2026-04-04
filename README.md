@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0905-sort-array-by-parity) |
 | [1539-kth-missing-positive-number](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1539-kth-missing-positive-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
