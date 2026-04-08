@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0069-sqrtx) |
 | [2235-add-two-integers](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2413-smallest-even-multiple) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
 |  |
