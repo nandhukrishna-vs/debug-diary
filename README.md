@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0069-sqrtx) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2235-add-two-integers) |
