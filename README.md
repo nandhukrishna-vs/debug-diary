@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0905-sort-array-by-parity) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0709-to-lower-case) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Counting
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1486-xor-operation-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
