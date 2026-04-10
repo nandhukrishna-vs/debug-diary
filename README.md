@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0709-to-lower-case) |
+| [1108-defanging-an-ip-address](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1108-defanging-an-ip-address) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1528-shuffle-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2011-final-value-of-variable-after-performing-operations) |
