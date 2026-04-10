@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1470-shuffle-the-array) |
+| [1528-shuffle-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0709-to-lower-case) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1528-shuffle-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2114-maximum-number-of-words-found-in-sentences) |
