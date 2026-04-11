@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
