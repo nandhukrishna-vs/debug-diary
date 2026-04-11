@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1528-shuffle-string) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0905-sort-array-by-parity) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Enumeration
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1486-xor-operation-in-an-array) |
 ## String Matching
 |  |
@@ -118,5 +122,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
