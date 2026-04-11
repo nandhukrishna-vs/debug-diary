@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0349-intersection-of-two-arrays) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0069-sqrtx) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1486-xor-operation-in-an-array) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0344-reverse-string) |
