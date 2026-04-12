@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2951-find-the-peaks](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2951-find-the-peaks) |
+| [3028-ant-on-the-boundary](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3028-ant-on-the-boundary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3028-ant-on-the-boundary](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3028-ant-on-the-boundary) |
 ## Enumeration
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
