@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2951-find-the-peaks](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2951-find-the-peaks) |
+| [2974-minimum-number-game](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3028-ant-on-the-boundary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0905-sort-array-by-parity) |
+| [2974-minimum-number-game](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2974-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2974-minimum-number-game](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3028-ant-on-the-boundary) |
 ## Enumeration
 |  |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3028-ant-on-the-boundary](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3028-ant-on-the-boundary) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
