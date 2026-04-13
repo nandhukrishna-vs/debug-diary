@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1688-count-of-matches-in-tournament) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1108-defanging-an-ip-address) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1688-count-of-matches-in-tournament) |
