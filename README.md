@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0367-valid-perfect-square) |
 | [1539-kth-missing-positive-number](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
