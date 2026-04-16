@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1688-count-of-matches-in-tournament) |
