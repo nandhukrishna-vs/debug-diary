@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0283-move-zeroes) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0344-reverse-string) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2706-buy-two-chocolates) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
