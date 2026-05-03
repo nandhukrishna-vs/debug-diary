@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1480-running-sum-of-1d-array) |
 | [3028-ant-on-the-boundary](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3028-ant-on-the-boundary) |
 ## Heap (Priority Queue)
 |  |
