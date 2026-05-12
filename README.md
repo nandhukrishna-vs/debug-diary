@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0771-jewels-and-stones) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1108-defanging-an-ip-address) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1528-shuffle-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1528-shuffle-string) |
