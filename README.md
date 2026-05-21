@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2951-find-the-peaks) |
 | [2974-minimum-number-game](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3028-ant-on-the-boundary) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/nandhukrishna-vs/debug-diary/tree/master/0771-jewels-and-stones) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3099-harshad-number) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## String
