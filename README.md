@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2706-buy-two-chocolates) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2951-find-the-peaks](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2951-find-the-peaks) |
 | [2974-minimum-number-game](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/nandhukrishna-vs/debug-diary/tree/master/3028-ant-on-the-boundary) |
