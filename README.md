@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1672-richest-customer-wealth) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/nandhukrishna-vs/debug-diary/tree/master/1534-count-good-triplets) |
 | [2427-number-of-common-factors](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/nandhukrishna-vs/debug-diary/tree/master/2951-find-the-peaks) |
 ## Bit Manipulation
